@@ -1,1 +1,0 @@
-# creating-removing-elements-practice
